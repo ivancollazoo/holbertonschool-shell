@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chgrp vicent staff my_dir
+chgrp vicent staff my_dir
