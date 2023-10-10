@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vicent:staff
+chgrp -R vicent:staff dir0/dir1/dir2/my_dir
