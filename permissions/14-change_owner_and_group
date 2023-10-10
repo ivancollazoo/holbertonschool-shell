@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp vicent staff my_dir
+chgrp vicent staff
