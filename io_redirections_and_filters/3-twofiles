@@ -1,2 +1,2 @@
 #!/bin/bash 
-tail -f passwd hosts
+cat /etc/passwd /etc/hosts
